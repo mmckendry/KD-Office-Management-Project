@@ -1,0 +1,9 @@
+<?php 
+if(loggedIn()){
+	if(!basename($includerFile,".php")=="dashboard"){
+		redirect("dashboard.php");
+	}
+}else{
+	redirect("login.php");
+}
+?>

@@ -1,0 +1,65 @@
+.error{
+	color:	#FF0000;
+}
+
+body{
+
+	background-color: #CBE0F2;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+#loginForm{
+	
+	padding-left: 10px ;
+	padding-right: 10px;
+	padding-top: 10px;
+	border: thick white solid;
+	position: fixed;
+    top:20%;
+    left:38%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:10px 10px 10px 10px;
+	
+}
+
+
+#registerForm{
+	
+	padding-left: 10px ;
+	padding-right: 10px;
+	padding-top: 10px;
+	border: thick white solid;
+	position: fixed;
+    top:20%;
+    left:38%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:10px 10px 10px 10px;
+	
+}
+
+table{
+
+	border: thin white solid;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	padding-right:2%;
+
+}
+
+
+
+a:hover{
+	color: white;
+}
+a{
+	color:2538B3;
+}
+
