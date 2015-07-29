@@ -9,7 +9,7 @@ global $connection;
 define("HOST", "localhost");
 define("USER", "root");
 define("PASSWORD", "");
-define("DATABASE", "login");
+define("DATABASE", "login"); //This 'login' is the name of the database. Change to your own database.
 
 define('SALT1', '24859f@#$#@$');
 define('SALT2', '^&@#_-=+Afda$#%');
